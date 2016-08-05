@@ -18,3 +18,7 @@ composer_add_to_path: true
 
 # GitHub OAuth token (used to help overcome API rate limits).
 composer_github_oauth_token: ''
+
+# Composer update path, by default doesn't update
+composer_update: false
+composer_update_paths: []
